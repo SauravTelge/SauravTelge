@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 
-- 🔭 I’m currently working on **Air Quality Visualization project for Mumbai region**
+- 🔭 I’m currently working on **Industrial collaboration for creating a website for butterfly analysis.**
 
 - 🌱 I’m currently learning **Natural Language processing, Flask**
 

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saurav Telge</h1>
-<h3 align="center">A passionate Machine Learning enthusiast from Mumbai.</h3>
+<h3 align="center">A passionate Machine Learning and Computer vision enthusiast from Mumbai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 
-- 🔭 My current projects : **Industrial collaboration for developing a full-fledged website for butterfly analysis as well as Project on Adversarial attacks on Neural Networks**
+- 🔭 My current projects : **Internship project**
 
-- 🌱 I’m currently learning **Natural Language processing, Flask**
+- 🌱 I’m currently learning **Natural Language processing**
 
-- 💬 Ask me about **ML, DL, Python, Data structures**
+- 💬 Ask me about **ML, DL, Computer Vision, Python, Data structures, Web Scraping**
 
 - 📫 How to reach me **2018.saurav.telge@ves.ac.in**
 

@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 
-- 🔭 My current projects : **Internship project**
+- 🔭 My current projects : **Internship project and 2 personal projects based on NLP and CV**
 
-- 🌱 I’m currently learning **Natural Language processing**
+- 🌱 I’m currently learning **Natural Language processing and GANs**
 
 - 💬 Ask me about **ML, DL, Computer Vision, Python, Data structures, Web Scraping**
 

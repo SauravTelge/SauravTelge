@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Telge</h1>
-<h3 align="center">A passionate Machine Learning and Computer vision enthusiast from Mumbai.</h3>
+<h3 align="center">Machine Learning and Computer Vision enthusiast from Mumbai, India📍.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 

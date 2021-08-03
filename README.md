@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language processing and GANs**
 
-- 💬 Ask me about **ML, DL, Computer Vision, Python, Data structures, Web Scraping**
+- 💬 Ask me about **ML, DL, Computer Vision, Python, Web Scraping**
 
 - 📫 How to reach me **2018.saurav.telge@ves.ac.in**
 

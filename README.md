@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 
-- 🔭 My current projects : **Internship project and a personal project based on Image Processing and CV**
-
 - 🌱 I’m currently learning **Natural Language processing and GANs**
 
 - 💬 Ask me about **ML, DL, Computer Vision, Python, Web Scraping**
 
-- 📫 How to reach me **2018.saurav.telge@ves.ac.in**
+- 📫 How to reach me **sauravt@umich.edu**
 
 - ⚡ Fun fact **I shoot people through my camera😉📷**
 

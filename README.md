@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 
-- 🌱 I’m currently learning completing my Master of Science degree in **ECE with specialization in Computer Vision**
+- 🌱 I’m currently completing my Master of Science degree in **ECE with specialization in Computer Vision**
 
 - 💬 Ask me about **ML, DL, Computer Vision, Python, Web Scraping**
 

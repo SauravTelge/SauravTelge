@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing the Master of Science degree in **ECE with specialization in Computer Vision** from **University of Michigan, AA**.
 
-- 💬 Ask me about **ML, DL, Computer Vision, Python, Web Scraping**
+- 💬 Ask me about **machine learning, deep learning, computer vision**
 
 - 📫 How to reach me **sauravt@umich.edu**
 

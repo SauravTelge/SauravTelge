@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Telge</h1>
-<h3 align="center">broadening my vision in Computer Vision🧑‍💻</h3>
+<h3 align="center">Broadening my vision in Computer Vision🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravtelge&label=Profile%20views&color=0e75b6&style=flat" alt="sauravtelge" /> </p>
 

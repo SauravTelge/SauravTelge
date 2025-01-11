@@ -10,6 +10,8 @@
 - 📫 How to reach me **sauravt@umich.edu**
 
 - ⚡ Fun fact **I shoot people through my camera😉📷**
+  
+- 👨🏻‍💻 My job profile - https://github.com/saurav-rediminds (Rediminds, Inc.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
